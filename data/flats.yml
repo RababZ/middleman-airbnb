@@ -5,13 +5,14 @@ sebastien:
   description: Charming room in Montmartre
 
 boris:
-  city: paris
+  city: tokyo
   location: TOKYO, JAPAN
   name: Boris' home
   description: Small flat in Tokyo
 
 romain:
-  city: paris
+  city: london
   location: LONDON, UK
   name: Romain's home
   description: Nice flat in Piccadilly
+
